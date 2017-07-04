@@ -1,1 +1,10 @@
-this is a file
+# Git Article
+## Introduction
+
+## Material and Methods
+
+## Results
+
+## Discussion
+
+## Conclusion
